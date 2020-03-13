@@ -28,16 +28,24 @@ namespace HRIS_Basic
                 if (Session["Username"] != "hradmin")
                 {
                     Response.Redirect("LoginPage.aspx");
+                  
                 }
 
-                BuildGrid();
+                string from_date = txtDateFrom.Value.Trim();
+                string end_Date = txtDateTo.Value.Trim();
+                string department_id = drpDepartment.SelectedValue.Trim();
+                string position_id = drpPosition.SelectedValue.Trim();
+                BuildGrid(from_date, end_Date, department_id, position_id);
             }
+  
         }
 
-        public void BuildGrid()
+        public void BuildGrid(string from_date, string end_Date, string department_id, string position_id)
         {
+            objCommon.DropdownDepartment(drpDepartment, "Select * from db_owner.Department", "Department_name", "Department_ID");
+            
             string sSQLStatement = "";
-            sSQLStatement = objSql.timerecords(sSQLStatement);
+            sSQLStatement = objSql.timerecords(sSQLStatement, from_date, end_Date, department_id, position_id);
 
             objTimelogs.LoadDataTable(sSQLStatement, dt);
 
@@ -89,6 +97,12 @@ namespace HRIS_Basic
             return;
         }
 
+        protected void drpDepartment_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string department_id = drpDepartment.SelectedValue.Trim();
+            objCommon.DropdownPosition(drpPosition, "Select * from db_owner.PositionTitle Where Department_ID =" + department_id, "Position_title", "Position_ID");
+            ShowSearch();
+        }
         protected void btnAlterTime_Click(object sender, EventArgs e)
         {
             int empid = int.Parse(Session["Employee_ID"].ToString());
@@ -257,7 +271,9 @@ namespace HRIS_Basic
             ClientScript.RegisterStartupScript(this.GetType(), "script", s, true);
         }
 
-        
-
+        public void ShowSearch()
+        {
+            ClientScript.RegisterStartupScript(this.GetType(), "key", "toggleSearchFilter();", true);
+        }
     } 
 }
