@@ -1,0 +1,14 @@
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\HRIS-Basic.dll.config
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\HRIS-Basic.pdb
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.pdfa.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.xtra.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\ManagedWifi.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\SRV.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\SRV.pdb
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.xml
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Release\HRIS-Basic.csprojResolveAssemblyReference.cache
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Release\HRIS-Basic.dll.licenses
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Release\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Release\HRIS-Basic.pdb

@@ -1,0 +1,5 @@
+﻿EmployeeID,EmployeeName,Date,Timekeeping,Type
+1,Mark Cruz,1/2/2020,8:00:00,1
+2,Mark Cruz,1/2/2020,8:10:00,1
+1,Mark Cruz,1/2/2020,18:35:00,0
+2,Mark Cruz,1/2/2020,18:10:00,0

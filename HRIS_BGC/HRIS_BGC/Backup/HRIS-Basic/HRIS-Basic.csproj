@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{75C055D5-BF53-4478-8B8E-02DC90C4440F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HRIS_Basic</RootNamespace>
+    <AssemblyName>HRIS-Basic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.1\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.pdfa.5.5.13.1\lib\itextsharp.pdfa.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xtra.5.5.13.1\lib\itextsharp.xtra.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ManagedWifi, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\managedwifi.1.1.0\lib\net20\ManagedWifi.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\..\RHBP\SYSTEMOPH_RHBP[MLM]\SYSTEMOPH_RHBP[MLM]\bin\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AutoRefresh.aspx" />
+    <Content Include="ChangePassword.aspx" />
+    <Content Include="CountDays.aspx" />
+    <Content Include="CreateHTMLPayslip.htm" />
+    <Content Include="CreatePDF.aspx" />
+    <Content Include="DashboardAdmin.aspx" />
+    <Content Include="EmployeeLeaveRecords.aspx" />
+    <Content Include="EmployeeMasterlist.aspx" />
+    <Content Include="Error.aspx" />
+    <Content Include="Expenses.aspx" />
+    <Content Include="ExpensesApproval.aspx" />
+    <Content Include="GenerateDtrReport.aspx" />
+    <Content Include="HolidayList.aspx" />
+    <Content Include="Home.aspx" />
+    <Content Include="HTMLPage1.htm" />
+    <Content Include="Images\background1.jpg" />
+    <Content Include="Images\bg.jpg" />
+    <Content Include="Images\error.png" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\maintenance.png" />
+    <Content Include="Images\under-construction.png" />
+    <Content Include="Images\user.png" />
+    <Content Include="LeaveApprovalAdmin.aspx" />
+    <Content Include="LeaveRecords.aspx" />
+    <Content Include="LoginPage.aspx" />
+    <Content Include="Maintenance.aspx" />
+    <Content Include="ManageEmployee.aspx" />
+    <Content Include="ManageEmployees.aspx" />
+    <Content Include="OvertimeApprovalAdmin.aspx" />
+    <Content Include="OvertimeRecords.aspx" />
+    <Content Include="Pagination.aspx" />
+    <Content Include="Payroll.aspx" />
+    <Content Include="PayrollApproval.aspx" />
+    <Content Include="PayrollModal.aspx" />
+    <Content Include="paysliptemplate.htm" />
+    <Content Include="QueryString.aspx" />
+    <Content Include="Sample.htm" />
+    <Content Include="Scripts\datetime.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-ui.min.js" />
+    <Content Include="Scripts\jquery.timepicker.min.js" />
+    <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\pages.js" />
+    <Content Include="SetLeave.aspx" />
+    <Content Include="Styles\css\all.css" />
+    <Content Include="Styles\jquery\jquery-ui-custom.css" />
+    <Content Include="Styles\jquery\jquery.timepicker.css" />
+    <Content Include="Styles\mobile.css" />
+    <Content Include="Styles\style.css" />
+    <Content Include="Styles\webfonts\fa-brands-400.svg" />
+    <Content Include="Styles\webfonts\fa-regular-400.svg" />
+    <Content Include="Styles\webfonts\fa-solid-900.svg" />
+    <Content Include="TimeAlterationApproval.aspx" />
+    <Content Include="TimeRecords.aspx" />
+    <Content Include="UnderConstructionAdmin.aspx" />
+    <Content Include="UnderConstructionPage.aspx" />
+    <Content Include="UnderConstructionPayroll.aspx" />
+    <Content Include="UndertimeRecords.aspx" />
+    <Content Include="UndertimeRecordsApproval.aspx" />
+    <Content Include="Upload\fake.txt" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WebForm1.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoRefresh.aspx.cs">
+      <DependentUpon>AutoRefresh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AutoRefresh.aspx.designer.cs">
+      <DependentUpon>AutoRefresh.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CountDays.aspx.cs">
+      <DependentUpon>CountDays.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CountDays.aspx.designer.cs">
+      <DependentUpon>CountDays.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePDF.aspx.cs">
+      <DependentUpon>CreatePDF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreatePDF.aspx.designer.cs">
+      <DependentUpon>CreatePDF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardAdmin.aspx.cs">
+      <DependentUpon>DashboardAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DashboardAdmin.aspx.designer.cs">
+      <DependentUpon>DashboardAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeLeaveRecords.aspx.cs">
+      <DependentUpon>EmployeeLeaveRecords.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EmployeeLeaveRecords.aspx.designer.cs">
+      <DependentUpon>EmployeeLeaveRecords.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMasterlist.aspx.cs">
+      <DependentUpon>EmployeeMasterlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EmployeeMasterlist.aspx.designer.cs">
+      <DependentUpon>EmployeeMasterlist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Expenses.aspx.cs">
+      <DependentUpon>Expenses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Expenses.aspx.designer.cs">
+      <DependentUpon>Expenses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExpensesApproval.aspx.cs">
+      <DependentUpon>ExpensesApproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExpensesApproval.aspx.designer.cs">
+      <DependentUpon>ExpensesApproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GenerateDtrReport.aspx.cs">
+      <DependentUpon>GenerateDtrReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GenerateDtrReport.aspx.designer.cs">
+      <DependentUpon>GenerateDtrReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HolidayList.aspx.cs">
+      <DependentUpon>HolidayList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HolidayList.aspx.designer.cs">
+      <DependentUpon>HolidayList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LeaveApprovalAdmin.aspx.cs">
+      <DependentUpon>LeaveApprovalAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LeaveApprovalAdmin.aspx.designer.cs">
+      <DependentUpon>LeaveApprovalAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LeaveRecords.aspx.cs">
+      <DependentUpon>LeaveRecords.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LeaveRecords.aspx.designer.cs">
+      <DependentUpon>LeaveRecords.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.aspx.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginPage.aspx.designer.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance.aspx.cs">
+      <DependentUpon>Maintenance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Maintenance.aspx.designer.cs">
+      <DependentUpon>Maintenance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEmployee.aspx.cs">
+      <DependentUpon>ManageEmployee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageEmployee.aspx.designer.cs">
+      <DependentUpon>ManageEmployee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEmployees.aspx.cs">
+      <DependentUpon>ManageEmployees.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageEmployees.aspx.designer.cs">
+      <DependentUpon>ManageEmployees.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="OvertimeApprovalAdmin.aspx.cs">
+      <DependentUpon>OvertimeApprovalAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OvertimeApprovalAdmin.aspx.designer.cs">
+      <DependentUpon>OvertimeApprovalAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OvertimeRecords.aspx.cs">
+      <DependentUpon>OvertimeRecords.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OvertimeRecords.aspx.designer.cs">
+      <DependentUpon>OvertimeRecords.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pagination.aspx.cs">
+      <DependentUpon>Pagination.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pagination.aspx.designer.cs">
+      <DependentUpon>Pagination.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Payroll.aspx.cs">
+      <DependentUpon>Payroll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Payroll.aspx.designer.cs">
+      <DependentUpon>Payroll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollApproval.aspx.cs">
+      <DependentUpon>PayrollApproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PayrollApproval.aspx.designer.cs">
+      <DependentUpon>PayrollApproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollModal.aspx.cs">
+      <DependentUpon>PayrollModal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PayrollModal.aspx.designer.cs">
+      <DependentUpon>PayrollModal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueryString.aspx.cs">
+      <DependentUpon>QueryString.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QueryString.aspx.designer.cs">
+      <DependentUpon>QueryString.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SetLeave.aspx.cs">
+      <DependentUpon>SetLeave.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SetLeave.aspx.designer.cs">
+      <DependentUpon>SetLeave.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TimeAlterationApproval.aspx.cs">
+      <DependentUpon>TimeAlterationApproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TimeAlterationApproval.aspx.designer.cs">
+      <DependentUpon>TimeAlterationApproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TimeRecords.aspx.cs">
+      <DependentUpon>TimeRecords.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TimeRecords.aspx.designer.cs">
+      <DependentUpon>TimeRecords.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UnderConstructionAdmin.aspx.cs">
+      <DependentUpon>UnderConstructionAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UnderConstructionAdmin.aspx.designer.cs">
+      <DependentUpon>UnderConstructionAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UnderConstructionPage.aspx.cs">
+      <DependentUpon>UnderConstructionPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UnderConstructionPage.aspx.designer.cs">
+      <DependentUpon>UnderConstructionPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UnderConstructionPayroll.aspx.cs">
+      <DependentUpon>UnderConstructionPayroll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UnderConstructionPayroll.aspx.designer.cs">
+      <DependentUpon>UnderConstructionPayroll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UndertimeRecords.aspx.cs">
+      <DependentUpon>UndertimeRecords.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UndertimeRecords.aspx.designer.cs">
+      <DependentUpon>UndertimeRecords.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UndertimeRecordsApproval.aspx.cs">
+      <DependentUpon>UndertimeRecordsApproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UndertimeRecordsApproval.aspx.designer.cs">
+      <DependentUpon>UndertimeRecordsApproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <Content Include="MasterPage.Master" />
+    <None Include="Styles\webfonts\fa-brands-400.eot" />
+    <None Include="Styles\webfonts\fa-brands-400.ttf" />
+    <None Include="Styles\webfonts\fa-brands-400.woff" />
+    <None Include="Styles\webfonts\fa-brands-400.woff2" />
+    <None Include="Styles\webfonts\fa-regular-400.eot" />
+    <None Include="Styles\webfonts\fa-regular-400.ttf" />
+    <None Include="Styles\webfonts\fa-regular-400.woff" />
+    <None Include="Styles\webfonts\fa-regular-400.woff2" />
+    <None Include="Styles\webfonts\fa-solid-900.eot" />
+    <None Include="Styles\webfonts\fa-solid-900.ttf" />
+    <None Include="Styles\webfonts\fa-solid-900.woff" />
+    <None Include="Styles\webfonts\fa-solid-900.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SRV\SRV.csproj">
+      <Project>{34D22980-A65F-490F-8684-EB2EA8D36B53}</Project>
+      <Name>SRV</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50684</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

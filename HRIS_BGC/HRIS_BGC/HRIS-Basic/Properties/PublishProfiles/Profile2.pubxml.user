@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2020-03-03T11:14:31.9707299+08:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://waws-prod-dm1-045.ftp.azurewebsites.windows.net</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AutoRefresh.aspx">
+      <publishTime>01/21/2020 13:38:26</publishTime>
+    </File>
+    <File Include="bin/HRIS-Basic.dll">
+      <publishTime>03/03/2020 14:25:45</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>01/10/2020 09:07:14</publishTime>
+    </File>
+    <File Include="bin/itextsharp.pdfa.dll">
+      <publishTime>01/10/2020 09:07:49</publishTime>
+    </File>
+    <File Include="bin/itextsharp.xtra.dll">
+      <publishTime>01/10/2020 09:07:57</publishTime>
+    </File>
+    <File Include="bin/ManagedWifi.dll">
+      <publishTime>01/06/2020 09:35:55</publishTime>
+    </File>
+    <File Include="bin/SRV.dll">
+      <publishTime>03/03/2020 14:25:43</publishTime>
+    </File>
+    <File Include="ChangePassword.aspx">
+      <publishTime>01/22/2020 14:00:46</publishTime>
+    </File>
+    <File Include="CountDays.aspx">
+      <publishTime>01/30/2020 14:56:30</publishTime>
+    </File>
+    <File Include="CreateHTMLPayslip.htm">
+      <publishTime>01/11/2020 16:29:33</publishTime>
+    </File>
+    <File Include="CreatePDF.aspx">
+      <publishTime>01/10/2020 11:00:10</publishTime>
+    </File>
+    <File Include="DashboardAdmin.aspx">
+      <publishTime>02/13/2020 15:25:24</publishTime>
+    </File>
+    <File Include="EmployeeLeaveRecords.aspx">
+      <publishTime>02/12/2020 11:44:22</publishTime>
+    </File>
+    <File Include="EmployeeMasterlist.aspx">
+      <publishTime>02/12/2020 11:44:31</publishTime>
+    </File>
+    <File Include="Error.aspx">
+      <publishTime>02/05/2020 11:05:56</publishTime>
+    </File>
+    <File Include="Expenses.aspx">
+      <publishTime>02/11/2020 16:31:56</publishTime>
+    </File>
+    <File Include="ExpensesApproval.aspx">
+      <publishTime>02/12/2020 11:44:40</publishTime>
+    </File>
+    <File Include="GenerateDtrReport.aspx">
+      <publishTime>02/20/2020 16:33:13</publishTime>
+    </File>
+    <File Include="HolidayList.aspx">
+      <publishTime>02/13/2020 14:29:40</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>02/11/2020 16:38:57</publishTime>
+    </File>
+    <File Include="HTMLPage1.htm">
+      <publishTime>01/13/2020 12:54:00</publishTime>
+    </File>
+    <File Include="Images/background1.jpg">
+      <publishTime>01/10/2020 14:05:15</publishTime>
+    </File>
+    <File Include="Images/bg.jpg">
+      <publishTime>01/23/2020 11:12:03</publishTime>
+    </File>
+    <File Include="Images/error.png">
+      <publishTime>01/23/2020 11:12:03</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>01/23/2020 11:12:04</publishTime>
+    </File>
+    <File Include="Images/maintenance.png">
+      <publishTime>01/23/2020 11:12:04</publishTime>
+    </File>
+    <File Include="Images/under-construction.png">
+      <publishTime>01/23/2020 11:12:04</publishTime>
+    </File>
+    <File Include="Images/user.png">
+      <publishTime>01/23/2020 11:12:05</publishTime>
+    </File>
+    <File Include="LeaveApprovalAdmin.aspx">
+      <publishTime>02/12/2020 11:44:50</publishTime>
+    </File>
+    <File Include="LeaveRecords.aspx">
+      <publishTime>02/11/2020 16:33:16</publishTime>
+    </File>
+    <File Include="LoginPage.aspx">
+      <publishTime>02/10/2020 11:28:55</publishTime>
+    </File>
+    <File Include="Maintenance.aspx">
+      <publishTime>01/22/2020 14:09:28</publishTime>
+    </File>
+    <File Include="ManageEmployee.aspx">
+      <publishTime>01/16/2020 12:23:47</publishTime>
+    </File>
+    <File Include="ManageEmployees.aspx">
+      <publishTime>02/20/2020 14:24:16</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>01/06/2020 10:57:20</publishTime>
+    </File>
+    <File Include="OvertimeApprovalAdmin.aspx">
+      <publishTime>02/12/2020 11:45:10</publishTime>
+    </File>
+    <File Include="OvertimeRecords.aspx">
+      <publishTime>02/11/2020 16:33:26</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/10/2020 09:07:57</publishTime>
+    </File>
+    <File Include="Pagination.aspx">
+      <publishTime>02/21/2020 10:28:59</publishTime>
+    </File>
+    <File Include="Payroll.aspx">
+      <publishTime>02/19/2020 12:44:50</publishTime>
+    </File>
+    <File Include="PayrollApproval.aspx">
+      <publishTime>02/12/2020 11:45:26</publishTime>
+    </File>
+    <File Include="PayrollModal.aspx">
+      <publishTime>01/08/2020 09:32:12</publishTime>
+    </File>
+    <File Include="paysliptemplate.htm">
+      <publishTime>01/10/2020 13:20:46</publishTime>
+    </File>
+    <File Include="QueryString.aspx">
+      <publishTime>02/21/2020 12:08:53</publishTime>
+    </File>
+    <File Include="Sample.htm">
+      <publishTime>01/11/2020 13:58:03</publishTime>
+    </File>
+    <File Include="Scripts/datetime.js">
+      <publishTime>02/20/2020 10:38:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.js">
+      <publishTime>02/20/2020 10:38:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.min.js">
+      <publishTime>02/20/2020 10:38:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.timepicker.min.js">
+      <publishTime>02/20/2020 10:38:27</publishTime>
+    </File>
+    <File Include="Scripts/main.js">
+      <publishTime>02/20/2020 15:46:33</publishTime>
+    </File>
+    <File Include="Scripts/pages.js">
+      <publishTime>02/20/2020 10:38:31</publishTime>
+    </File>
+    <File Include="SetLeave.aspx">
+      <publishTime>01/29/2020 12:09:58</publishTime>
+    </File>
+    <File Include="Styles/css/all.css">
+      <publishTime>01/06/2020 09:14:24</publishTime>
+    </File>
+    <File Include="Styles/jquery/jquery-ui-custom.css">
+      <publishTime>02/13/2020 14:29:22</publishTime>
+    </File>
+    <File Include="Styles/jquery/jquery.timepicker.css">
+      <publishTime>02/13/2020 14:29:21</publishTime>
+    </File>
+    <File Include="Styles/mobile.css">
+      <publishTime>02/20/2020 15:50:27</publishTime>
+    </File>
+    <File Include="Styles/style.css">
+      <publishTime>02/21/2020 11:06:56</publishTime>
+    </File>
+    <File Include="Styles/webfonts/fa-brands-400.svg">
+      <publishTime>01/06/2020 09:14:12</publishTime>
+    </File>
+    <File Include="Styles/webfonts/fa-regular-400.svg">
+      <publishTime>01/06/2020 09:14:12</publishTime>
+    </File>
+    <File Include="Styles/webfonts/fa-solid-900.svg">
+      <publishTime>01/06/2020 09:14:12</publishTime>
+    </File>
+    <File Include="TimeAlterationApproval.aspx">
+      <publishTime>02/12/2020 11:45:48</publishTime>
+    </File>
+    <File Include="TimeRecords.aspx">
+      <publishTime>02/28/2020 10:31:53</publishTime>
+    </File>
+    <File Include="UnderConstructionAdmin.aspx">
+      <publishTime>02/07/2020 10:42:35</publishTime>
+    </File>
+    <File Include="UnderConstructionPage.aspx">
+      <publishTime>02/05/2020 09:10:45</publishTime>
+    </File>
+    <File Include="UnderConstructionPayroll.aspx">
+      <publishTime>02/05/2020 10:37:25</publishTime>
+    </File>
+    <File Include="UndertimeRecords.aspx">
+      <publishTime>02/11/2020 16:34:40</publishTime>
+    </File>
+    <File Include="UndertimeRecordsApproval.aspx">
+      <publishTime>02/13/2020 10:03:04</publishTime>
+    </File>
+    <File Include="Upload/fake.txt">
+      <publishTime>02/07/2020 11:44:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/03/2020 14:26:49</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>01/27/2020 14:38:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

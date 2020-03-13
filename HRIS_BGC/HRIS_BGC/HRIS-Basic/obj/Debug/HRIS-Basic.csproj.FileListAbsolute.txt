@@ -1,0 +1,66 @@
+C:\Users\SysteMoPH Laptop.LAPTOP-4DI68ED1\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Debug\HRIS-Basic.csprojResolveAssemblyReference.cache
+C:\Users\SysteMoPH Laptop.LAPTOP-4DI68ED1\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Debug\HRIS-Basic.dll.licenses
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\HRIS-Basic.pdb
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.pdfa.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.xtra.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\ManagedWifi.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\SRV.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\SRV.pdb
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\itextsharp.xml
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Debug\HRIS-Basic.csprojResolveAssemblyReference.cache
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Debug\HRIS-Basic.dll.licenses
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Debug\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\HRIS-Basic\obj\Debug\HRIS-Basic.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\HRIS-Basic.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.pdfa.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.xtra.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\ManagedWifi.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\SRV.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\SRV.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.xml
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.csprojResolveAssemblyReference.cache
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.dll.licenses
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.pdb
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\HRIS-Basic.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\HRIS-Basic.pdb
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.pdfa.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.xtra.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\ManagedWifi.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\SRV.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\SRV.pdb
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.xml
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.csprojResolveAssemblyReference.cache
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.dll.licenses
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\HRIS-Basic.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.pdfa.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.xtra.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\ManagedWifi.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\SRV.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\SRV.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\itextsharp.xml
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.csprojResolveAssemblyReference.cache
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.dll.licenses
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\HRIS-Basic\obj\Debug\HRIS-Basic.pdb

@@ -1,0 +1,33 @@
+C:\Users\SysteMoPH Laptop.LAPTOP-4DI68ED1\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Debug\SRV.dll
+C:\Users\SysteMoPH Laptop.LAPTOP-4DI68ED1\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Debug\SRV.pdb
+C:\Users\SysteMoPH Laptop.LAPTOP-4DI68ED1\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\obj\Debug\SRV.dll
+C:\Users\SysteMoPH Laptop.LAPTOP-4DI68ED1\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\obj\Debug\SRV.pdb
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Debug\SRV.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Debug\SRV.pdb
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\obj\Debug\SRV.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\obj\Debug\SRV.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\SRV.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\SRV.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\obj\Debug\SRV.csprojResolveAssemblyReference.cache
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\obj\Debug\SRV.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\SRV\obj\Debug\SRV.pdb
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\SRV.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\SRV.pdb
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\SRV\obj\Debug\SRV.dll
+C:\Users\Maureen Reyes\Desktop\HRIS_BGC\HRIS_BGC\SRV\obj\Debug\SRV.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\SRV.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\SRV.pdb
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\SRV\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\SRV\obj\Debug\SRV.dll
+C:\Users\SYSTEMO PC2\Desktop\HRIS_BGC\HRIS_BGC\HRIS_BGC\SRV\obj\Debug\SRV.pdb

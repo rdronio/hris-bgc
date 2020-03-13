@@ -1,0 +1,5 @@
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Release\SRV.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\bin\Release\SRV.pdb
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\obj\Release\SRV.csprojResolveAssemblyReference.cache
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\obj\Release\SRV.dll
+C:\Users\SYSTEMO PC2\OneDrive - seize web-enabled paradigms\SysteMoPH - Mau\HRIS-Basic\SRV\obj\Release\SRV.pdb
